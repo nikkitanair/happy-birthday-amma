@@ -30,7 +30,7 @@ class App extends Component {
               to="/"
               className="App-link"
             >
-              Feliz Cumpleaños Papa</Link>
+              Feliz Cumpleaños Papá</Link>
           </h1>
         </header>
         <Route exact path="/" render={() => (
