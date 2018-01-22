@@ -21,7 +21,7 @@ export function adrian () {
   return {
     author: "Adrian",
     photo: "",
-    message: "Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no? 😉 Feliz cumpleaños Pap! Espero que disfrutas de tu día especial! Y ya pronto te podré dar tu abrazo de cumpleaños!! Te amo muchísimo!! Abrazotes! 😘",
+    message: "Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no? 😉 Feliz cumpleaños Papa! Espero que disfrueas de tu día especial! Y ya pronto te podré dar tu abrazo de cumpleaños!! Te amo muchísimo!! Abrazotes! 😘",
     preview: ".Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no?..."
   }
 }
@@ -30,7 +30,7 @@ export function samir () {
   return {
     author: "Samir",
     photo: "",
-    message: "Feliz Cumpleaños pa! Te deseo todo lo mejor de este mundo! Espero que hayas disfrutado bastante en Colombia! Y aun que un poco lejos hoy, se que muy pronto estaremos cerca de nuevo para poder celebrar! Gracias por ser tan especial con migo pa, y siempre brindarme tu apoyo! Lo quiero muchísimo pa! Un abrazote 🤗😘 bien fuerte! ",
+    message: "Feliz Cumpleaños pa! Te deseo todo lo mejor de este mundo! Espero que hayas disfrutado bastante en Colombia! Y aunque un poco lejos hoy, se que muy pronto estaremos cerca de nuevo para poder celebrar! Gracias por ser tan especial conmigo pa, y siempre brindarme tu apoyo! Lo quiero muchísimo pa! Un abrazote 🤗😘 bien fuerte! ",
     preview: "prevew...",
   }
 }

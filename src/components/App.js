@@ -67,7 +67,7 @@ class App extends Component {
         <Route exact path="/" render={() => (
           <div>
           <p className="App-intro">
-            Hola pa! En este dia te queremos decear el dia mas feliz! 
+            Hola pa! En este dia te queremos desear el dia mas feliz! 
             Lo queremos muchisimo!!!
           </p>
           <ol className="cards-grid"> 
