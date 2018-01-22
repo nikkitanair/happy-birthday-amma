@@ -10,6 +10,7 @@
 .App-header {
   background-color: white;
   height: 50px;
+  height: auto;
   padding: 20px;
   color: #696b64;
   font-weight: medium;
@@ -18,12 +19,14 @@
 
 .App-title {
   font-size: 1.5em;
+  max-width: 100%;
 }
 
 .App-link {
   color: #696b64;
   font-size: 1.5em;
   text-decoration: none;
+  max-width: 100%;
 }
 
 .App-intro {
