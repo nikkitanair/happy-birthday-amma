@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: white;
+  height: 50px;
+  padding: 20px;
+  color: #696b64;
+  font-weight: medium;
+  border: 1px solid #696b64;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+  font-weight: lighter;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.familia-photo {
+  max-height: 250px;
+  max-width: 100%;
+}
+
+.family-photo-box {
+  background-color: #696b64
+}
+
+.cards-grid {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cards-grid li {
+  padding: 10px 15px;
+  text-align: left;
+}
+
+
+.cards-box {
+  background-color: #696b64;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin: 0 auto;
+}
+
+/*post list*/
+
+.list-card-title {
+  padding: 10px 0;
+  background: white;
+  text-align: center;
+}
+.list-card-title h3 {
+  font-weight: 30;
+  margin: 0;
+  color: #222;
+  width: 300px;
+  height: 80px;
+}
+
+.list-card-title-link {
+  font-weight: 100;
+  color: #222;
+  text-decoration: none;
+}
+
+.card-photo {
+  max-height: 250px;
+  max-width: 100%;
+}
+
