@@ -1,6 +1,6 @@
 export function mama () {
   return {
-    author: "Sokis",
+    author: "Soquis",
     photo: '../mama.jpg',
     message: "En este especial día desde lo más profundo de mi corazón,quiero desearte un muy feliz cumpleaños. Que Dios te bendiga y te de muchos años de vida para COMPARTIR JUNTOS. Gracias por cambiar y hacerme feliz. Que el Universo te guíe y ayude a cumplir tus sueños. Te amo. Soquis",
     preview: "En este especial día desde lo más profundo de mi corazón,quiero desearte un muy feliz cumpleaños...."

@@ -5,7 +5,7 @@ import * as Data from '../data'
 class Familiar extends Component {
   data(){
     let data = {
-      "Sokis": Data.mama(),
+      "Soquis": Data.mama(),
       "Nikkita": Data.kkitaLove(),
       "Adrian": Data.adrian(),
       "Samir": Data.samir(),

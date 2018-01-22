@@ -38,7 +38,7 @@ class App extends Component {
             <img src={familia} className="familia-photo" alt="familia"/>
           </div>
         )}/>
-        <Route exact path="/Sokis" render={() => (
+        <Route exact path="/Soquis" render={() => (
           <div className="family-photo-box">
             <img src={mama} className="familia-photo" alt="sokis"/>
           </div>
