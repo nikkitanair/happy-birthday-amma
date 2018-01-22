@@ -30,7 +30,7 @@ export function samir () {
   return {
     author: "Samir",
     photo: "",
-    message: "Feliz Cumpleaños pa! Te deseo todo lo mejor de este mundo! Espero que hayas disfrutado bastante en Colombia! Y aunque un poco lejos hoy, se que muy pronto estaremos cerca de nuevo para poder celebrar! Gracias por ser tan especial conmigo pa, y siempre brindarme tu apoyo! Lo quiero muchísimo pa! Un abrazote 🤗😘 bien fuerte! ",
+    message: "Feliz Cumpleaños pa! Te deseo todo lo mejor de este mundo! Espero que hayas disfrutado bastante en Colombia! Y aunque un poco lejos hoy, sé que muy pronto estaremos cerca de nuevo para poder celebrar! Gracias por ser tan especial conmigo pa, y siempre brindarme tu apoyo! Lo quiero muchísimo pa! Un abrazote 🤗😘 bien fuerte! ",
     preview: "prevew...",
   }
 }
