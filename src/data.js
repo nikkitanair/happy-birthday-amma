@@ -21,7 +21,7 @@ export function adrian () {
   return {
     author: "Adrian",
     photo: "",
-    message: "Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no? 😉 Feliz cumpleaños Papa! Espero que disfrtes de tu día especial! Y ya pronto te podré dar tu abrazo de cumpleaños!! Te amo muchísimo!! Abrazotes! 😘",
+    message: "Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no? 😉 Feliz cumpleaños Papa! Espero qu disfrutes de tu día especial! Y ya pronto te podré dar tu abrazo de cumpleaños!! Te amo muchísimo!! Abrazotes! 😘",
     preview: ".Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no?..."
   }
 }
