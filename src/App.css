@@ -20,6 +20,12 @@
   font-size: 1.5em;
 }
 
+.App-link {
+  color: #696b64;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
 .App-intro {
   font-size: large;
   font-weight: lighter;
@@ -82,12 +88,29 @@
 
 .list-card-title-link {
   font-weight: 100;
-  color: #222;
+  color: white;
   text-decoration: none;
 }
 
 .card-photo {
   max-height: 250px;
   max-width: 100%;
+}
+
+.fam-container {
+  text-align: center;
+  padding: 30px 50px;
+}
+.fam-author {
+  padding: 0px 30px;
+}
+.fam-author i {
+  text-decoration: underline;
+}
+
+.fam-body {
+  font-size: 1.5em;
+  font-family: message-box;
+  padding: 30px;
 }
 
