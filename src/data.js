@@ -1,36 +1,19 @@
-export function mama () {
-  return {
-    author: "Soquis",
-    photo: '../mama.jpg',
-    message: "En este especial día desde lo más profundo de mi corazón,quiero desearte un muy feliz cumpleaños. Que Dios te bendiga y te de muchos años de vida para COMPARTIR JUNTOS. Gracias por cambiar y hacerme feliz. Que el Universo te guíe y ayude a cumplir tus sueños. Te amo. Soquis",
-    preview: "En este especial día desde lo más profundo de mi corazón,quiero desearte un muy feliz cumpleaños...."
-
-  }
-}
 
 export function kkitaLove (){
   return {
-    author: "Nikkita",
+    author: "Nikki",
     photo: "",
-    message: "Feliz cumpleaños! Espero que este teniendo un buen día y que tenga un año muy maravilloso, lleno de memorias felices!  Espero verte muy pronto! Un abrazote 🤗 bien grande ",
+    message: "Dearest Acha, Happy birthday! I wish I were celebrating with you in person today and I hope you have the best day ever. Thank you for all your support and love all these years, I wouldn’t be where I am without you and I feel so blessed to have you as my Acha! I hope you have an amazing year ahead filled with beautiful memories and moments doing the things you love. Hope to see you soon!! Love you lots!  Big hugs!",
     preview: "preview..."
   }
 }
 
-export function adrian () {
-  return {
-    author: "Adrian",
-    photo: "",
-    message: "Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no? 😉 Feliz cumpleaños Papa! Espero que disfrutes de tu día especial! Y ya pronto te podré dar tu abrazo de cumpleaños!! Te amo muchísimo!! Abrazotes! 😘",
-    preview: ".Hehehe, tan aventajado celebrando tu cumpleaños en Colombia no?..."
-  }
-}
 
 export function samir () {
   return {
     author: "Samir",
     photo: "",
-    message: "Feliz Cumpleaños pa! Te deseo todo lo mejor de este mundo! Espero que hayas disfrutado bastante en Colombia! Y aunque un poco lejos hoy, sé que muy pronto estaremos cerca de nuevo para poder celebrar! Gracias por ser tan especial conmigo pa, y siempre brindarme tu apoyo! Lo quiero muchísimo pa! Un abrazote 🤗😘 bien fuerte! ",
+    message: "Dear Uncle Acha! Feliz Cumpleaños!!! I hope your birthday is full of joy, and I wish you all the best from the bottom of my heart. It was really nice seeing you this past December, and I hope to see you again really soon! Hugs!!!",
     preview: "prevew...",
   }
 }
