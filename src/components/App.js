@@ -1,5 +1,29 @@
 import React, { Component } from 'react';
 import '../App.css';
+
+import familia100 from '../photosA/familia100.JPG'
+import familia101 from '../photosA/familia101.JPG'
+import familia102 from '../photosA/familia102.JPG'
+import familia103 from '../photosA/familia103.JPG'
+import familia104 from '../photosA/familia104.JPG'
+import familia105 from '../photosA/familia105.JPG'
+import familia106 from '../photosA/familia106.JPG'
+import familia107 from '../photosA/familia107.JPG'
+import familia108 from '../photosA/familia108.JPG'
+import familia109 from '../photosA/familia109.JPG'
+import familia110 from '../photosA/familia110.JPG'
+import familia111 from '../photosA/familia111.JPG'
+import familia112 from '../photosA/familia112.JPG'
+import familia113 from '../photosA/familia113.JPG'
+import familia114 from '../photosA/familia114.JPG'
+import familia115 from '../photosA/familia115.JPG'
+import familia116 from '../photosA/familia116.JPG'
+import familia117 from '../photosA/familia117.JPG'
+import familia118 from '../photosA/familia118.JPG'
+import familia119 from '../photosA/familia119.JPG'
+
+
+
 import familia from '../photos/familia_acha.jpg'
 import familia1 from '../photos/familia_acha1.jpg'
 import familia2 from '../photos/familia_acha2.jpg'
@@ -74,55 +98,44 @@ class App extends Component {
               to="/"
               className="App-link"
             >
-              HAPPY BIRTHDAY ACHA!</Link>
+              HAPPY BIRTHDAY AMMA!</Link>
           </h1>
           <Route exact path="/" render={() => (
             <div >
-              <img src={familia41} className="familia-photo-acha" alt="familia"/>
+              <img src={familia101} className="familia-photo-acha" alt="familia"/>
             </div>
           )}/>
         </header>
         <Route exact path="/" render={() => (
             <div className="family-photo-box">
-              <img src={familia6} className="familia-photo" alt="familia"/>
-              <img src={familia7} className="familia-photo" alt="familia"/>
-              <img src={familia10} className="familia-photo" alt="familia"/>
-              <img src={familia11} className="familia-photo" alt="familia"/>
-              <img src={familia12} className="familia-photo" alt="familia"/>
-              <img src={familia13} className="familia-photo" alt="familia"/>
-              <img src={familia14} className="familia-photo" alt="familia"/>
-              <img src={familia15} className="familia-photo" alt="familia"/>
-              <img src={familia16} className="familia-photo" alt="familia"/>
-              <img src={familia23} className="familia-photo" alt="familia"/>
-              <img src={familia1} className="familia-photo" alt="familia"/>
-              <img src={familia5} className="familia-photo" alt="familia"/>
-              <img src={familia29} className="familia-photo" alt="familia"/>
-              <img src={familia4} className="familia-photo" alt="familia"/>
-              <img src={familia2} className="familia-photo" alt="familia"/>
-              <img src={familia3} className="familia-photo" alt="familia"/>
-              <img src={familia24} className="familia-photo" alt="familia"/>
-              <img src={familia27} className="familia-photo" alt="familia"/>
-              <img src={familia28} className="familia-photo" alt="familia"/>
-              <img src={familia42} className="familia-photo" alt="familia"/>
-              <img src={familia43} className="familia-photo" alt="familia"/>
-              <img src={familia44} className="familia-photo" alt="familia"/>
-              <img src={familia45} className="familia-photo" alt="familia"/>
-              <img src={familia46} className="familia-photo" alt="familia"/>
-              <img src={familia47} className="familia-photo" alt="familia"/>
-              <img src={familia48} className="familia-photo" alt="familia"/>
-              <img src={familia51} className="familia-photo" alt="familia"/>
+              <img src={familia100} className="familia-photo" alt="familia"/>
+              <img src={familia103} className="familia-photo" alt="familia"/>
+              <img src={familia104} className="familia-photo" alt="familia"/>
+              <img src={familia105} className="familia-photo" alt="familia"/>
+              <img src={familia106} className="familia-photo" alt="familia"/>
+              <img src={familia107} className="familia-photo" alt="familia"/>
+              <img src={familia108} className="familia-photo" alt="familia"/>
+              <img src={familia109} className="familia-photo" alt="familia"/>
+              <img src={familia110} className="familia-photo" alt="familia"/>
+              <img src={familia111} className="familia-photo" alt="familia"/>
+              <img src={familia112} className="familia-photo" alt="familia"/>
+              <img src={familia113} className="familia-photo" alt="familia"/>
+              <img src={familia116} className="familia-photo" alt="familia"/>
+              <img src={familia118} className="familia-photo" alt="familia"/>
+              <img src={familia119} className="familia-photo" alt="familia"/>
             </div>
         )}/>
         <Route exact path="/Samir" render={() => (
           <div className="family-photo-box">
+            <img src={familia114} className="familia-photo" alt="familia"/>
             <img src={familia26} className="familia-photo" alt="familia"/>
             <img src={familia49} className="familia-photo" alt="familia"/>
           </div>
         )}/>
         <Route exact path="/Nikki" render={() => (
           <div className="family-photo-box">
-            <img src={familia} className="familia-photo" alt="familia"/>
-            <img src={familia52} className="familia-photo" alt="familia"/>
+            <img src={familia117} className="familia-photo" alt="familia"/>
+            <img src={familia115} className="familia-photo" alt="familia"/>
             <img src={familia53} className="familia-photo" alt="familia"/>
           </div>
         )}/>
@@ -134,7 +147,7 @@ class App extends Component {
         <Route exact path="/" render={() => (
           <div>
           <p className="App-intro">
-            Hi Acha! We would like to wish you the happiest birthday ever!
+            Hi Amma! Wishing you the happiest birthday ever! We hope your day is full of joy!!!
           </p>
           <ol className="cards-grid"> 
             {this.cardData().map((card) => (
